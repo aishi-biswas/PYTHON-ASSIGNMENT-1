@@ -1,0 +1,12 @@
+John,85
+Alice,90
+Bob,78
+Charles,NotAvailable
+Diana,missing
+Eve,88
+,92
+Frank,InvalidData
+Grace,83
+Hank,67
+Irene,50
+Jack,85

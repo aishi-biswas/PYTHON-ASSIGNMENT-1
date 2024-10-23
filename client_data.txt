@@ -1,0 +1,23 @@
+Client Name: John Doe
+Phone: (123) 456-7890
+Email: john.doe@example.com
+
+Client Name: Jane Smith
+Phone: 123-456-7890
+Email: jane.smith@example.com
+
+Client Name: Bob Johnson
+Phone: 987 654 3210
+Email: bob.johnson@example.com
+
+Client Name: Alice Williams
+Phone: (456) 789-0123
+Email: alice.williams@example.com
+
+Client Name: Chris Davis
+Phone: 321-654-0987
+Email: chris.davis@example.com
+
+Client Name: Mary Wilson
+Phone: (321) 654-9876
+Email: mary.wilson@example.com
